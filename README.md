@@ -1,6 +1,6 @@
 # smith_ect
 
-`Smith_2022_ECT` project repository: investigating the roles of aperiodic activity and slow oscillations in electroconvulsive therapy (ECT) as a treatment for Major Depressive Disorder (MDD)
+`smith_ect` project repository: investigating the roles of aperiodic activity and slow oscillations in electroconvulsive therapy (ECT) as a treatment for Major Depressive Disorder (MDD)
 
 [![Paper]()]
 
